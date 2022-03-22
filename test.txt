@@ -1,6 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vehicula quis elit a rutrima.
- Suspendisse varius vehicula turpis, in posuere est ultricies ut. Cras sed justo venenatis 
- justo egestas mattis vel et felis. Phasellus cursus, nibh ut ultricisaades rhozwinncus, odio elit efficitur
-  lorem, nec mattis lacus nisi nec purus. Vestibulum hendrerit dignissim est nec volutpat. Praesent 
-  feugiat ultricies risus, quis auctor massa rutrum sed. Integer finibus condimentum lacinia.
-   Integer ut ipsum justo. Fusce pretium fringilla felis at malesuada.
